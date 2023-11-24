@@ -12,7 +12,7 @@ const AppNavigator = () => {
         <NavigationContainer>
             <Stack.Navigator initialRouteName='splash'>
                 <Stack.Screen name='splash' component={Splashscreen} options={{headerShown:false}} />
-                <Stack.Screen name='dashboard' component={Dashboard} />
+                <Stack.Screen name='dashboard' component={Dashboard} options={{headerShown:false}} />
             </Stack.Navigator>
         </NavigationContainer>
     )

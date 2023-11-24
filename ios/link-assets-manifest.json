@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GalanoGrotesque-Bold.otf",
+      "sha1": "6683341f0caa0e3e8b9a342429c68582e050c533"
+    },
+    {
+      "path": "assets/fonts/GalanoGrotesque-Medium.otf",
+      "sha1": "c061122b358949ca01fd2b4a69c160d5c50910d6"
+    },
+    {
+      "path": "assets/fonts/GalanoGrotesque-Semi-Bold.otf",
+      "sha1": "09aa075cb097cf9173e5e993c24e4390e1a8b0cb"
+    },
+    {
+      "path": "assets/fonts/GalanoGrotesque-regular.otf",
+      "sha1": "3254ec66cc34f422cbe432e05b846ddab7583a11"
+    },
+    {
+      "path": "assets/fonts/Neusharp-Bold.otf",
+      "sha1": "c7344d01a952b0d2721d481509096405ad974aee"
+    }
+  ]
+}
