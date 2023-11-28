@@ -1,7 +1,10 @@
-export  default  gmcolor={
-gmprimary:'#0e3a69',
-gmsecondory:'#ef4771',
-gmwhite:'#ffffff',
-gmblack:'#000000',
-
+export  default  cscolor={
+primary:'#D17842',
+secondory:'#DC3535',
+dark:'#0C0F14',
+bluedark:'#252A32',
+grey:'#AEAEAE',
+greydark:'#52555A',
+white:'#ffffff',
+black:'#000000',
 }
