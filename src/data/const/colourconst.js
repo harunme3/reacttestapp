@@ -1,4 +1,4 @@
-export  default  cscolor={
+export default cscolor={
 primary:'#D17842',
 secondory:'#DC3535',
 dark:'#0C0F14',

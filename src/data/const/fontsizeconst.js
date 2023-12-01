@@ -1,4 +1,4 @@
-export  default csfontsize={
+export default csfontsize={
     text10:10,
     text12:12,
     text14:14,

@@ -4,6 +4,7 @@ import { NavigationContainer } from '@react-navigation/native'
 import { createStackNavigator } from '@react-navigation/stack'
 import Splashscreen from '../screen/splashscreen'
 import Dashboard from '../screen/dashboard'
+import ProductDetailPage from '../screen/productdetailpage'
 
 const Stack = createStackNavigator()
 
@@ -13,6 +14,7 @@ const AppNavigator = () => {
             <Stack.Navigator initialRouteName='splash'>
                 <Stack.Screen name='splash' component={Splashscreen} options={{headerShown:false}} />
                 <Stack.Screen name='dashboard' component={Dashboard} options={{headerShown:false}} />
+                <Stack.Screen name='productdetailpage' component={ProductDetailPage} options={{headerShown:false}} />
             </Stack.Navigator>
         </NavigationContainer>
     )
